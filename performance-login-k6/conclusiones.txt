@@ -1,6 +1,6 @@
 Durante la prueba de carga que se realizo se observo que el servicio de login se llega a alcanzar un promedio de 20 TPS, llegando a cumplir con la meta del escenario definido. 
 
-El 95% de las solicitudes se mantuvo pro debajo de 1.5 segundos dando un promedio de 1.35 por cada uno, llegando a cumplir la SLA establecida. La tasa de erro fue inferior al 3% por lo que el servicio se considera estable bajo la prueba de carga aplicada. 
+El 95% de las solicitudes se mantuvo por debajo de 1.5 segundos dando un promedio de 1.35 por cada uno, llegando a cumplir la SLA establecida. La tasa de erro fue inferior al 3% por lo que el servicio se considera estable bajo la prueba de carga aplicada. 
 
 Recomendaciones: 
 - Se puede ir aumentado gradualmente los TPS para la prueba de estrés hasta ver que tiempo es optimo de respuesta
