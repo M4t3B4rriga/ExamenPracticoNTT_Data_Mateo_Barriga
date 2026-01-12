@@ -1,0 +1,10 @@
+Concluciones: 
+- Se llego a implementar una automatizacion funcional del flujo de compra en la plataforma de SauceDemo, llegando a validar el proceso completo desde el inicio de la sesión hasta que llegue a finalizar la compra. 
+- El uso de POM(page obejct model) llego a facilitar la origazacion del codigo, mejorando la mantenibilidad de los scripts ayudando a separar la logica de negocio y la localizacion de los elemenetos de la interfaz. 
+- Serenity BDD llego a propocionar reportes detallados y legibles facilitando el analisis de los resultados de la ejecucion. 
+- La practica permitiio reforzar concepts clave de automatizacion de las pruebas funcionales. 
+
+Hallazgos: 
+- Se llego a identificar que el correcto funcionamiento depende directamente de la configuracion de ChromeDriver ya que una mala configuracion de este componente provoca fallos en la ejecucion. 
+- Se idetifico que el uso incorrecto de @FindBy puede gener ar error de compilacion ya que no llega a se compatible con las versiones manejadas de Serenity, Selenium y java. 
+
