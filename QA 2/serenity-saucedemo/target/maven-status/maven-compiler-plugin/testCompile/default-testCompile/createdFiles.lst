@@ -1,0 +1,7 @@
+com\qa\saucedemo\pages\FinishPage.class
+com\qa\saucedemo\steps\CompraSteps.class
+com\qa\saucedemo\runners\CompraTest.class
+com\qa\saucedemo\pages\CheckoutPage.class
+com\qa\saucedemo\pages\CartPage.class
+com\qa\saucedemo\pages\LoginPage.class
+com\qa\saucedemo\pages\ProductsPage.class
